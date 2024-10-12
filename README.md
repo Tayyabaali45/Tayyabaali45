@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tayyaba Ali</h1>
 <h3 align="center">Studying the data - Living the choas</h3>
 
-- 🔭 I’m currently working on ** My passion project Litability**
+- 🔭 I’m currently working on **My passion project Litability**
 
-- 🌱 I’m currently learning **Java,Python,R,C++**
+- 🌱 I’m currently learning **Java, Python, R, C++**
 
 - 👯 I’m looking to collaborate on **Data Science and Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/tayyabaali4u7](https://www.kaggle.com/tayyabaali4u7)
 
-- 💬 Ask me about **Data Wrangling,Data Cleaning,Data Visualization,Machine Learning,Power BI,Tableau**
+- 💬 Ask me about **Data Wrangling, Data Cleaning, Data Visualization, Machine Learning, Power BI, Tableau**
 
 - 📫 How to reach me **tayyabaali511@gmail.com**
 
