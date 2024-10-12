@@ -1,4 +1,3 @@
-Hi there 👋
 <h1 align="center">Hi 👋, I'm Tayyaba Ali</h1>
 <h3 align="center">Studying the data - Living the choas</h3>
 
