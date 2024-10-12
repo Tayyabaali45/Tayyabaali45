@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Python, R, C++**
 
-- 👯 I’m looking to collaborate on **Data Science and Data Analysis**
+- 👯 I’m looking to collaborate on **Data Science and Analysis projects to build my portfolio and expand my skills**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/tayyabaali4u7](https://www.kaggle.com/tayyabaali4u7)
 
