@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayyaba Ali</h1>
 <h3 align="center">Studying the data - Living the choas</h3>
 
-- 🔭 I’m currently working on **Litability**
+- 🔭 I’m currently working on ** My passion project Litability**
 
 - 🌱 I’m currently learning **Java,Python,R,C++**
 
